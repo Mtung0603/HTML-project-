@@ -1,0 +1,19 @@
+{
+    "folders": [
+        {
+            "path": ".."
+        },
+        {
+            "path": "../tạo liên kiết"
+        },
+        {
+            "path": "../table"
+        },
+        {
+            "path": "../tao anh"
+        }
+    ],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "WEB201"
+    }
+}
